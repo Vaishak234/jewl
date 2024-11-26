@@ -1,0 +1,39 @@
+[
+  {
+    "salutation": "Mr",
+    "firstName": "vaishakh",
+    "lastName": "p",
+    "email": "vaishakh@gmail.com",
+    "phone": "9778018675",
+    "dob": "03-10-2003",
+    "gender": "Female",
+    "qualifications": "degree",
+    "address": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "country": "india",
+    "state": "kerala",
+    "city": "kochi",
+    "pin": "726536",
+    "username": "vaishakhp",
+    "password": "pass1234",
+    "id": "a9849990-e2ee-41e4-b672-034b98794915",
+    "avatar": "a9849990-e2ee-41e4-b672-034b98794915.jpg"
+  },
+  {
+    "salutation": "Mrs",
+    "firstName": "vaishakh",
+    "lastName": "p",
+    "email": "vaishakh123@gmail.com",
+    "phone": "1234567890",
+    "dob": "13-11-2024",
+    "gender": "male",
+    "qualifications": "degreeeee",
+    "address": "abcd house, kollam ,lol",
+    "state": "1",
+    "country": "India",
+    "city": "kochi",
+    "pin": "690574",
+    "username": "vaishakhhhh",
+    "password": "123456",
+    "id": "8bf0479f-46c5-40f9-afe7-7c1f0b73508a"
+  }
+]
